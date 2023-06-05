@@ -1,4 +1,4 @@
-## vagrant-shell-script-nginx
+# vagrant-shell-script-nginx
 # Desafio
   
   Criar máquina virtual no vagrant, em seguida instalar o nginx com site (https://viacep.com.br/exemplo/jquery/)
